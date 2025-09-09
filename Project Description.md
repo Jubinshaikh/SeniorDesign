@@ -1,7 +1,7 @@
 # Project Description
 
 ## Team Name
-**Team WorkWave**
+**Team SupaWorkers**
 
 ## Team Members
 - **Jubin Shaikh** — Computer Science — shaikhjn@mail.uc.edu  
