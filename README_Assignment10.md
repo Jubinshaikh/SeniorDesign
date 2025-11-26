@@ -118,7 +118,7 @@ The effort matrix allocates the percentage of work per task and per team member.
 - DB Schema: Krish 60%, Jubin 20%, Namra 20%  
 - Security Validation: Jubin 60%, Namra 20%, Krish 20%  
 
-Assuming ~5–6 hours/week across 10+ weeks, these distributions justify **at least 45 hours of effort for each team member**, spread across requirements, implementation, testing, documentation, and coordination.
+5–6 hours/week across 10+ weeks, these distributions justify **at least 45 hours of effort for each team member**, spread across requirements, implementation, testing, documentation, and coordination.
 
 ---
 
