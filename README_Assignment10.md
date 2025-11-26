@@ -12,7 +12,7 @@
 
 ---
 
-## Project Abstract (≤ 400 characters)
+## Project Abstract 
 
 Secure online marketplace that connects hirers with nearby workers for short-term jobs. Users register, post or apply for tasks, and exchange messages through web and mobile interfaces. The system emphasizes strong authentication, protected data storage, and admin monitoring so that flexible work stays convenient, fair, and safe.
 
