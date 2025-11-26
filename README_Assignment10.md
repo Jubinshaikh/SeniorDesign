@@ -207,9 +207,9 @@ If future deployment requires paid cloud hosting or premium APIs, we will docume
 
 ### References and Links
 
-- Code Repository: _(insert GitHub repo URL here)_  
+- Repository: (https://github.com/Jubinshaikh/SeniorDesign)  
 - Design diagrams and timelines: see [`Design_Diagrams.pdf`](design_diagrams/Design_Diagrams.pdf) and [`Assignment6.pdf`](Assignment6.pdf).
-- Course materials and security best practices: WAPH slides, OWASP Top 10, and MongoDB/Postgres documentation (links to be added as used).
+- Course materials and security best practices: WAPH slides, OWASP Top 10, and MongoDB/Postgres documentation.
 
 ### Team Contract
 
