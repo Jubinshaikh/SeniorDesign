@@ -154,16 +154,17 @@ The presentation includes:
 ## Self-Assessment Essays (Assignment 3)
 
 **Files:**
+  
+- [`Team Contract Draft – Signed`](Team%20Contract%20Draft-Signed%20(1).docx)
 
-- [`Individual Capstone Assessment - Jubin Shaikh`](Individual%20Capstone%20Assessment%20(1).docx)  
-- (Team contract also part of Assignment 3; see below.)
+Assignment 3 combined an individual reflection with a shared team contract:
 
-Jubin’s assessment reflects on:
+- The **Individual Capstone Assessment** documents each member’s starting point for the capstone, including prior coursework, technical skills, and goals for what they want to learn during the project.
+- The **Team Contract Draft – Signed** sets expectations for how the team will work together. It defines roles (PM/Security Lead, Frontend Lead, Backend Lead), meeting schedules, communication channels, deadlines, contribution expectations, and how conflicts or missed responsibilities will be handled.
+- The contract also includes agreements about academic integrity, respectful collaboration, and equal participation so that each member can contribute fairly to the 45+ hours of required effort.
 
-- Preparation from courses such as WAPH, Computer Networks, AI, and Cloud Computing  
-- Co-op experience at Infosense Global (full-stack dev, REST APIs, Git, agile teamwork)  
-- Motivation to build a secure, real-world-impact platform  
-- Approach to dividing work, applying secure coding, and evaluating personal contributions  
+Together, these documents show both individual preparation and the shared framework the team uses to coordinate work on SupaWorkers.
+
 
 ---
 
