@@ -65,7 +65,7 @@ The user stories cover the main roles in SupaWorkers:
 
 ### Design Diagrams: Level 0, Level 1 and Level 2 
 
-**File:** [`Design_Diagrams.pdf`](Design_Diagrams.pdf)
+**File:** [`Design_Diagrams.pdf`](design_diagrams/Design_Diagrams.pdf)
 
 - **D0 – Context Diagram:** Shows hirers posting tasks, the SupaWorkers marketplace system processing them, and workers browsing and accepting tasks. Focus is on main inputs and outputs between users and the system.  
 - **D1 – Major Subsystems:** Breaks the system into Auth & Profiles, Job Posting & Management, Search & Matching, Messaging & Notifications, Admin & Moderation, and the Database. It highlights the modular architecture and subsystem dependencies.  
@@ -202,7 +202,7 @@ If future deployment requires paid cloud hosting or premium APIs, we will docume
 ### References and Links
 
 - Code Repository: _(insert GitHub repo URL here)_  
-- Design diagrams and timelines: see [`Design_Diagrams.pdf`](Design_Diagrams.pdf) and [`Assignment6.pdf`](Assignment6.pdf).  
+- Design diagrams and timelines: see [`Design_Diagrams.pdf`](design_diagrams/Design_Diagrams.pdf) and [`Assignment6.pdf`](Assignment6.pdf).
 - Course materials and security best practices: WAPH slides, OWASP Top 10, and MongoDB/Postgres documentation (links to be added as used).
 
 ### Team Contract
