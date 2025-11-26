@@ -169,7 +169,13 @@ Jubin’s assessment reflects on:
 
 ## Professional Biographies (Assignment 1)
 
-> If you already have separate `Professional_Biography_*.md` files from Assignment 1, link them here. Otherwise, you can paste brief bios similar to the summaries below.
+Full individual biographies for each team member are stored in the folder:
+
+- [`ProfessionalBiography_jubinshaikh.md`](Professional%20Bios%20of%20the%20team/ProfessionalBiography_jubinshaikh.md)  
+- [`ProfessionalBiography_krish.md`](Professional%20Bios%20of%20the%20team/ProfessionalBiography_krish.md)  
+- [`ProfessionalBiography_namra.md`](Professional%20Bios%20of%20the%20team/ProfessionalBiography_namra.md)  
+
+**Summary of Roles**
 
 - **Jubin Shaikh – Project Manager / Security & Testing Lead**  
   Computer Science major with experience in full-stack development and web security through co-op work and WAPH. Focused on secure architecture, testing, and coordination for SupaWorkers.
